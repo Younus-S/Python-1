@@ -10,3 +10,5 @@ print(4>5)
 x=76
 x+=4
 print(x)
+
+print(45//5)
