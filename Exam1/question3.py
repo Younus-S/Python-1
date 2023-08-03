@@ -7,4 +7,4 @@ print(list1)
 list1.append("f")
 print(list1)
 
-list1(1,"V") #Change list
+list1[1, "V"] #Change list
